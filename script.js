@@ -164,8 +164,6 @@ function Level2() {
     });
 }
 
-//Intro();
+Intro();
 
-//Level1();
-
-Level2();
+Level1();
